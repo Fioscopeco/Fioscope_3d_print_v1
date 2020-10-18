@@ -12,13 +12,29 @@ NOTE: Our design is based on an existing open-source 3D-printed stehoscope creat
   <li>Microphone case (3D-Printed)</li>
   <li>Chestpiece (3D-printed)*</li>
   <li>Ring (3D-printed)*</li>
-  <li>A Diaphragm: A 40mm diameter piece cut from a thin (apporx 0.35mm) plastic sheet*</li>
-  <li>Small mini microphone</li>
-  <li>3.5mm TRRS AUX audio Cable</li>
+  <li>A Diaphragm: A 40mm diameter piece cut from a thin (apporx 0.35mm) plastic sheet*
+     <ul>
+      <li>A plastic cover from a report cover is suitable: https://bit.ly/37k60OA</li>
+    </ul>
+  </li>
+  <li>Small mini microphone
+    <ul>
+      <li>Amazon: https://amzn.to/2HhR20g</li>
+      <li>Ali Express: https://bit.ly/3dDaVuR</li>
+    </ul>
+  </li>
+  <li>3.5mm TRRS AUX audio Cable
+   <ul>
+      <li>Amazon: https://amzn.to/3jaouDl</li>
+      <li>Ali Express: https://bit.ly/3oblfiT</li>
+    </ul>
+  </li>
   <li>If you have an Iphone 7 or above, use a lightning to 3.5mm adapter</li>
 </ul>
 
 Of Course, once your done, Download the fioscope app (android) or use the recording app on your smartphone as an alternative (iphone).
+
+<p>* Design is from the open-source stethoscope made by the <a href="https://glia.org/"> The Glia Project</a> </p>
 
 # Instructions
 
