@@ -8,6 +8,7 @@ NOTE: Our design is based on an existing open-source 3D-printed stehoscope creat
 # Materials List
 
 <ul>
+  <li>5cm length 8mm I.D Silcone or Vinyl pipe Tubing</li>
   <li>Microphone Lid (3D-printed)</li>
   <li>Microphone case (3D-Printed)</li>
   <li>Chestpiece (3D-printed)*</li>
@@ -36,6 +37,18 @@ Of Course, once your done, Download the fioscope app (android) or use the record
 
 <p>* Design is from the open-source stethoscope made by the <a href="https://glia.org/"> The Glia Project</a> </p>
 
-# Instructions
+# Instructions - Assembly
+Once you have all the components follow the steps below to assemble your Fioscope 🩺
 
-To be updated once ready :)
+1. First, take the 40mm diameter plastic sheet and place it over the chestpiece. Then secure it using the ring by snapping it onto the chest piece and plastic sheet.
+
+2. Next, Attach the chestpiece head to one end of the silicone/vinyl tube.
+
+3. Place the microphone into the microphone case then secure the top of the case using the case lid.
+
+4. Take the complete microphone housing and attach it to the other end of the silicone/vinyl tube.
+
+5. Finally connect the TRRS AUX cable to the microphone.
+
+You may now connect your fioscope to your device (phone, tablet, or computer) and either use the <b>fioscope app</b> or any voice memo app.
+
