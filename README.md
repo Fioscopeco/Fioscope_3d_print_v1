@@ -40,6 +40,8 @@ Of Course, once your done, Download the fioscope app (android) or use the record
 # Instructions - Assembly
 Once you have all the components follow the steps below to assemble your Fioscope 🩺
 
+<b>If you want a step-by-step video of how to assemble, check out this video: https://youtu.be/URAjH3uxrN8</b>
+
 1. First, take the 40mm diameter plastic sheet and place it over the chestpiece. Then secure it using the ring by snapping it onto the chest piece and plastic sheet.
 
 2. Next, Attach the chestpiece head to one end of the silicone/vinyl tube.
