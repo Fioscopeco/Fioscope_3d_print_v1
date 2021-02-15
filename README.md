@@ -52,5 +52,7 @@ Once you have all the components follow the steps below to assemble your Fioscop
 
 5. Finally connect the TRRS AUX cable to the microphone.
 
-You may now connect your fioscope to your device (phone, tablet, or computer) and either use the <b>fioscope app</b> or any voice memo app.
+You may now connect your fioscope to your device (phone, tablet, or computer) and either use the <b>fioscope app*</b> or any voice memo app.
+
+*NOTE: The Fioscope app is for Android only and is not available on the Google Play Store. To download the app, go to our app repository by <a href="https://github.com/Fioscopeco/Fioscope_Android_App_v1"> Clicking Here</a> and follow the instructions on the repository.
 
